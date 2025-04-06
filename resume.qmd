@@ -1,89 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lincoln Tady's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+# Lincoln Tady
+Business Analytics Student
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Brigham Young University-Idaho
+__GPA : 3.54__
+__Scholarship: Thomas E Ricks Scholarship__
+__Certificate: Business Administration__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+### Kimberly-Clark
+#### Innovation Data Analytics and Insights Intern
+__Filtered and compiled data cases to find $2.5 million in Working Capital Saved__
+__Created and updated multiple Power BI dashboards that reached out to the organization’s higher-ups__
+__Analyzed, compiled, and presented multiple projects to different teams in order to assist in decision-making__
+__Assisted in the running of a GBS-wide hackathon that resulted in $70 million in potential savings for the following year__
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Brigham Young University-Idaho
+#### Data Visualization Specialist
+__Generated multiple reports in Power BI that sped up the degree verification process by 25%__
+__Built a dashboard in Power BI to show the most pressing daily tasks which increased productivity by 20%__
+__Communicated with shareholders to create necessary reports and dashboards__
+__Presented 3 of my reports to the University President and his Council__
 
-- Fellow
+#### Degree Verification Lead Processor
+__Created an automated Outlook response to send to students which reduced monthly interactions by 35%__
+__Utilized Excel to create a workbook to store necessary graduation data stopping a data loss issue__
+__Interviewed over 40 candidates for positions in the organization__
+__Directed a group of 5 workers in day-to-day tasks__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+#### Degree Verification Processor
+__Utilized Excel to fully automate a process that initially took 6 hours__
+__Maintained a 99% overall accuracy in degree processing__
+__Developed customer service skills by answering between 50 and 100 emails and phone calls daily__
+__Handled sensitive information with care__
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Additional Information
+__Hard Skills: Advanced Excel, Power BI, Tableau, SQL, R-Studio, Python__
+__Soft Skills: Problem Solver, Effective Communicator, Natural Leader, Active Listener, Critical Thinker__
+__Languages: Spanish- Fluent__
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
